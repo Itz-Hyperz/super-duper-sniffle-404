@@ -1,1 +1,45 @@
-
+.body {
+        background-color: #181818;
+      }
+      
+      .body .div1 {
+        height: 40px;
+      }
+      
+      .body .image {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+      }
+      
+      .body .text {
+        color: white;
+      }
+      
+      .body .button {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        height: 40px;
+        width: 160px;
+        color: white;
+        border-radius: 15px;
+        background-color: transparent;
+        border-color: white;
+      }
+      
+      .body .button:hover {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        height: 40px;
+        width: 160px;
+        color: white;
+        border-radius: 15px;
+        background-color: transparent;
+        border-color: #3f241e;
+      }
+      
+      .body .div2 {
+        height: 50px;
+      }
